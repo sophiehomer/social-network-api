@@ -18,8 +18,8 @@ npm install
 ## Usage
 npm start<br>
 How to videos: <br>
-[Part 1](chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/dc91a81b-997c-4a72-yeca-d9bdbb74535d?autostopped)  <br>
-[Part 2](chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/ddda4f0e-ba22-4af6-yefb-68d379c235d8)
+chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/dc91a81b-997c-4a72-yeca-d9bdbb74535d?autostopped  <br>
+chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/ddda4f0e-ba22-4af6-yefb-68d379c235d8
 
 ## Credits
 Sophie Homer
