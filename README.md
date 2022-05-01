@@ -27,7 +27,7 @@ Sophie Homer
 ## License 
 none
 
-## tests
+## Tests
 none
 
 ## Questions:
